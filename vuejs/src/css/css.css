@@ -1,0 +1,47 @@
+.s-logo,.bg-warning{
+    color: #ffffff;
+}
+
+.colbtn{
+    background-color: #FF8D06;
+}
+
+.form-connexion{
+position: relative;
+background-color: azure;
+
+}
+
+.list-group{
+    height: 100%;
+    width: 50%;
+    
+}
+hr{
+    color: #ffffff;
+    width: 200px;
+    height: 200px;
+    
+}
+
+#fixed-sidebar {
+    position: fixed;
+    max-width: 50%;
+    color: white;
+}
+
+#dash{
+    height: max-content;
+    width: 100%;
+    background-color: blue;
+}
+.size{
+    height: 30px;
+    width: 30px;
+}
+
+.bordtext{
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
