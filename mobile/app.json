@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "s-colis",
+    "slug": "s-colis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "s-colis"
+}
